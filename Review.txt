@@ -1,0 +1,11 @@
+1. Conatiner
+
+    a.display:flex;
+    b. width
+    c. height
+
+2. Metrics
+
+    1. 500px [pixels]
+    2. vw [ view width] + vh[view height]
+
