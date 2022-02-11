@@ -20,6 +20,23 @@
 
 #sub-container-1 {
   display: flex;
+  align-items: center;
+}
+
+#book-name {
+  margin: px 10px;
+  padding: 5px 10px;
+}
+#sub-container-1 button {
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border: 0;
+  outline: 0;
+}
+
+#book-link {
+  color: white;
 }
 
 #red {
