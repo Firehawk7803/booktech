@@ -1,0 +1,2 @@
+Add 3 other html pages at the books-pages folder and link them to the same css "dog-man.css"
+Modify the links of the buy button, the image, the title, descripton.
